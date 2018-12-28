@@ -1,0 +1,17 @@
+{
+	"BTN.ADD": "Create",
+	"BTN.CLOSE": "Close",
+	"BTN.CONFIRM": "Confirm",
+	"BTN.DELETE": "Delete",
+	"BTN.DONE": "Done",
+	"BTN.DOWNLOAD": "Download",
+	"BTN.EDIT": "Edit",
+	"BTN.EXPORT": "Download",
+	"BTN.QUERY": "Search",
+	"BTN.RESET": "Reset",
+	"BTN.RETURN": "Return",
+	"BTN.SAVE": "Save",
+	"BTN.SELECT_ALL": "Select All",
+	"BTN.SET": "Set",
+	"BTN.SUBMIT": "Submit"
+}

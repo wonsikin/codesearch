@@ -1,0 +1,16 @@
+KEY,zh-CN,en-US,ja,zh-TW,th
+BTN.QUERY,查询,Search,検索,查詢,ค้นหา
+BTN.DELETE,删除,Delete,削除,刪除,ลบ
+BTN.EDIT,编辑,Edit,編集,編輯,แก้ไข
+BTN.CLOSE,关闭,Close,閉じる,關閉,ปิด
+BTN.CONFIRM,确定,Confirm,確認,確定,ยืนยัน
+BTN.DONE,完成,Done,完了,完成,สำเร็จ
+BTN.SAVE,保存,Save,保存,保存,บันทึก
+BTN.SELECT_ALL,全选,Select All,全て選択,全選,เลือกทั้งหมด
+BTN.SUBMIT,提交,Submit,送信,提交,ตกลง
+BTN.RESET,重置,Reset,リセット,重置,รีเซ็ต
+BTN.SET,设置,Set,設定,設置,ตั้งค่า
+BTN.EXPORT,导出,Download,ダウンロード,匯出,ดาวน์โหลด
+BTN.DOWNLOAD,下载,Download,ダウンロード,下載,ดาวน์โหลด
+BTN.RETURN,返回,Return,戻る,返回,ย้อนกลับ
+BTN.ADD,添加,Create,新規作成,添加,เพิ่ม

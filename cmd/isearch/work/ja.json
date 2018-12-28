@@ -1,0 +1,17 @@
+{
+	"BTN.ADD": "新規作成",
+	"BTN.CLOSE": "閉じる",
+	"BTN.CONFIRM": "確認",
+	"BTN.DELETE": "削除",
+	"BTN.DONE": "完了",
+	"BTN.DOWNLOAD": "ダウンロード",
+	"BTN.EDIT": "編集",
+	"BTN.EXPORT": "ダウンロード",
+	"BTN.QUERY": "検索",
+	"BTN.RESET": "リセット",
+	"BTN.RETURN": "戻る",
+	"BTN.SAVE": "保存",
+	"BTN.SELECT_ALL": "全て選択",
+	"BTN.SET": "設定",
+	"BTN.SUBMIT": "送信"
+}

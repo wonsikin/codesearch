@@ -1,0 +1,17 @@
+{
+	"BTN.ADD": "添加",
+	"BTN.CLOSE": "關閉",
+	"BTN.CONFIRM": "確定",
+	"BTN.DELETE": "刪除",
+	"BTN.DONE": "完成",
+	"BTN.DOWNLOAD": "下載",
+	"BTN.EDIT": "編輯",
+	"BTN.EXPORT": "匯出",
+	"BTN.QUERY": "查詢",
+	"BTN.RESET": "重置",
+	"BTN.RETURN": "返回",
+	"BTN.SAVE": "保存",
+	"BTN.SELECT_ALL": "全選",
+	"BTN.SET": "設置",
+	"BTN.SUBMIT": "提交"
+}

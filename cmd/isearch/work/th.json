@@ -1,0 +1,17 @@
+{
+	"BTN.ADD": "เพิ่ม",
+	"BTN.CLOSE": "ปิด",
+	"BTN.CONFIRM": "ยืนยัน",
+	"BTN.DELETE": "ลบ",
+	"BTN.DONE": "สำเร็จ",
+	"BTN.DOWNLOAD": "ดาวน์โหลด",
+	"BTN.EDIT": "แก้ไข",
+	"BTN.EXPORT": "ดาวน์โหลด",
+	"BTN.QUERY": "ค้นหา",
+	"BTN.RESET": "รีเซ็ต",
+	"BTN.RETURN": "ย้อนกลับ",
+	"BTN.SAVE": "บันทึก",
+	"BTN.SELECT_ALL": "เลือกทั้งหมด",
+	"BTN.SET": "ตั้งค่า",
+	"BTN.SUBMIT": "ตกลง"
+}

@@ -1,0 +1,17 @@
+{
+	"BTN.ADD": "添加",
+	"BTN.CLOSE": "关闭",
+	"BTN.CONFIRM": "确定",
+	"BTN.DELETE": "删除",
+	"BTN.DONE": "完成",
+	"BTN.DOWNLOAD": "下载",
+	"BTN.EDIT": "编辑",
+	"BTN.EXPORT": "导出",
+	"BTN.QUERY": "查询",
+	"BTN.RESET": "重置",
+	"BTN.RETURN": "返回",
+	"BTN.SAVE": "保存",
+	"BTN.SELECT_ALL": "全选",
+	"BTN.SET": "设置",
+	"BTN.SUBMIT": "提交"
+}
